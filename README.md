@@ -1,7 +1,15 @@
 Misorientation
 ==============
 
-Misorientation is a script that allows you to determine misorientation axis and angle across a grain boundary between two crystals A and B of known orientation (2 sets of Euler angles) and crystal parameters (a,b,c, alpha, beta, gamma). The two crystals are represented on a stereographic projection, as shown below. 
+Misorientation is a script that allows you to determine misorientation axis and angle across a grain boundary between two crystals A and B of known orientation (2 sets of Euler angles) and crystal parameters (a,b,c, alpha, beta, gamma). 
+
+## Requirements
+Python 2.7 with Numpy, Matplotlib, Tkinter, PIL available through Enthought Canopy or Anaconda for instance. Mac Users will need Active Tcl installed. 
+
+# User Guide
+
+
+The two crystals are represented on a stereographic projection, as shown below. 
 
 ![img1](/img1.png?raw=true)
 
